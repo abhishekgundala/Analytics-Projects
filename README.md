@@ -26,5 +26,3 @@ Objective: The aim of this project is to analyze and predict the lifetime value 
 Methodology: We employed clustering techniques to segment customers based on their purchasing behavior. Recency-Frequency-Monetary (RFM) analysis was used to evaluate customer value, while Market Basket Analysis provided insights into purchasing patterns. The analysis helped in identifying high-value customer segments and optimizing marketing efforts to enhance customer retention and value.
 
 Tools Used: R (for statistical analysis)
-
-These README sections provide a snapshot of each project, highlighting the objectives, methodologies, and tools used. Feel free to expand each section with more specific details about your findings, challenges encountered, and the impact of your work.
