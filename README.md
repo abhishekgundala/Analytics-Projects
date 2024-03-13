@@ -36,7 +36,7 @@ Objective: Evaluate Amazon's investment potential through detailed financial ana
 
 Methodology: We applied the Discounted Cash Flow (DCF) model and Relative Valuation in Excel to assess Amazon's intrinsic value and market comparison. Additionally, regression analysis was used to examine Amazon's stock performance against the S&P 500, offering insights into its risk-return profile.
 
-Tools Used: Excel, for its comprehensive capabilities in financial modeling and data analysis.
+Tools Used: Excel, for its comprehensive capabilities in financial modeling and data analysis.  
 
 
 
